@@ -34,6 +34,10 @@
 
 ## Featured Projects
 
+### [work-flow](https://github.com/rhantj/work-flow)
+팀 프로젝트의 회의록, 업무, 개발 기록, 산출물, 기여도를 하나의 흐름으로 잇는 협업·평가 보조 웹 플랫폼. 회의록을 올리면 요약·결정사항·To-Do가 자동 생성돼 업무 보드와 대시보드에 반영되고, LightGBM이 업무 지연 위험과 업무 편중을 예측하며, pgvector RAG 어시스턴트가 출처를 붙여 답한다. Spring Boot가 인증·도메인을, FastAPI가 LLM·RAG·ML 추론을 맡는 분리 구조.
+`Spring Boot` `FastAPI` `React` `LangGraph` `pgvector` `LightGBM` `Whisper` `Docker`
+
 ### [review-check](https://github.com/rhantj/review-check)
 Steam 게임 리뷰 감성 분석, AI 요약, RAG 기반 질문 답변 시스템. LSTM/DistilBERT로 긍정·부정을 분류하고 Qwen2.5 + LangChain + Chroma로 장단점을 요약한다.
 `LSTM` `DistilBERT` `Qwen2.5` `LangChain` `Chroma` `Streamlit`
