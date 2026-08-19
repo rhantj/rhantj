@@ -8,6 +8,7 @@
 | --- | --- |
 | **GitHub** | [@rhantj](https://github.com/rhantj) |
 | **Portfolio** | [rhantj.github.io](https://rhantj.github.io/) |
+| **Games** | [rhantj.github.io/games](https://rhantj.github.io/games/) |
 | **Focus** | LLM · RAG · ML · Spring Boot · FastAPI |
 
 ---
@@ -117,4 +118,5 @@ UCI Heart Failure 데이터셋 기반 심장질환 위험 예측.
 
 이 README와 프로젝트 보고서에 쓰인 슬라이드 덱 디자인 규칙은 [보고서 덱 스타일 가이드](docs/report-deck-style.md)에 정리되어 있습니다.
 
-더 많은 작업물은 [포트폴리오 사이트](https://rhantj.github.io/)에서 확인할 수 있습니다.
+더 많은 작업물은 [포트폴리오 사이트](https://rhantj.github.io/)에서,
+Unity·웹 게임은 [게임 포트폴리오](https://rhantj.github.io/games/)에서 확인할 수 있습니다.
